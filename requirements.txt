@@ -1,0 +1,7 @@
+ipykernel
+ipywidgets
+datasets
+evaluate
+transformers[sentencepiece]
+accelerate
+sacrebleu
